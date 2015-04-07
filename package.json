@@ -1,0 +1,35 @@
+{
+  "name": "grulp",
+  "version": "1.0.0",
+  "description": "Don't bother if the project uses gulp or grunt",
+  "license": "MIT",
+  "repository": "stoeffel/grulp",
+  "author": {
+    "name": "stoeffel",
+    "email": "schtoeffel@gmail.com",
+    "url": "schtoeffel.ch"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "bin": {
+    "grulp": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulp",
+    "grunt"
+  ],
+  "dependencies": {
+    "shelljs": "^0.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.11"
+  }
+}

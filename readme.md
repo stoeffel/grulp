@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save grulp
+$ npm install grulp -g
 ```
 
 

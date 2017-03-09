@@ -26,10 +26,10 @@
     "grunt"
   ],
   "dependencies": {
-    "shelljs": "^0.4.0"
+    "shelljs": "^0.7.7"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.0.1",
     "gulp": "^3.8.11"
   }
 }
